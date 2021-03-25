@@ -1,5 +1,5 @@
 beautifulsoup4==4.7.1
 bs4==0.0.1
 PySocks==1.6.8
-PyYAML==5.1
+PyYAML==5.4
 soupsieve==1.9
